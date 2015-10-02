@@ -4,6 +4,7 @@
   "description": "PM2 Memcached Module",
   "main": "app.js",
   "dependencies": {
+    "humanize": "0.0.9",
     "memcached": "~2.2.0",
     "moment": "^2.10.6",
     "moment-duration-format": "^1.3.0",
