@@ -1,6 +1,6 @@
 {
   "name": "pm2-memcached",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "PM2 Memcached Module",
   "main": "app.js",
   "dependencies": {
