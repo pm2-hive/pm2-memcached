@@ -7,9 +7,10 @@ Memcached module for Keymetrics
 
 PM2 module to monitor key Memcached server metrics:
 
-*
-*
-*
+* Uptime / Threads / Current Connections
+* Total Items / Current Items
+* Get Hits / Get Misses 
+* Bytes Read / Bytes Written
 
 ## Requirements
 
